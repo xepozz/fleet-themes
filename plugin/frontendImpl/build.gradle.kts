@@ -4,5 +4,8 @@ plugins {
 }
 
 kotlin {
-    jvmToolchain(17)
+    jvmToolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+        vendor = JvmVendorSpec.JETBRAINS
+    }
 }
