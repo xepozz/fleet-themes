@@ -19,6 +19,10 @@ fleetPlugin {
          Dark Themes in the plugin:
          - Intellij IDEA – Dark (@xepozz)
          """.trimIndent()
+        icons {
+            default = file("frontendImpl/src/jvmMain/resources/pluginIcon.svg")
+            dark = file("frontendImpl/src/jvmMain/resources/pluginIcon.svg")
+        }
     }
 
     fleetRuntime {
