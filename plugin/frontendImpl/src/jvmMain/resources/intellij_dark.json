@@ -7,7 +7,7 @@
   "colors": {
     "text.primary": "Neutral_130",
     "text.secondary": "Neutral_100",
-    "text.tertiary": "Neutral_140",
+    "text.tertiary": "Neutral_80",
     "text.positive": "Green_110",
     "text.dangerous": "Red_110",
     "text.disabled": "Neutral_80",
