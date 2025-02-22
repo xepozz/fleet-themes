@@ -12,6 +12,6 @@ class MyThemePlugin : Plugin<Unit> {
     override val key: Plugin.Key<Unit> = MyThemePlugin
 
     override fun ContributionScope.load(pluginScope: PluginScope) {
-        registerTheme(ThemeId(id = "your-theme-id-here"))
+        registerTheme(ThemeId(id = "intellij_dark"))
     }
 }

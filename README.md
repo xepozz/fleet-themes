@@ -1,18 +1,36 @@
-# fleet-theme-plugin-template
+# Fleet Themes
 
 [![JetBrains official project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![GitHub license](https://img.shields.io/badge/license-APACHE_2.0-blue.svg)](https://github.com/JetBrains/fleet-plugin-template/blob/main/LICENSE.md)
 
-**JetBrains Fleet Theme Plugin Template** is a repository that provides a template to create custom themes for 
-[JetBrains Fleet][fleet:website].
+**Plugin for Fleet** that adds several themes to your Fleet.
 
-## Documentations
+Create a pull request with your JSON theme config and it will be able on the Marketplace with your theme.
 
-- TODO: [Theme Documentation]<!--TODO: [fleet:theme-documentation]-->
-- [Fleet Plugin SDK Documentation][fleet:sdk-documentation]
-- [Examples: Fleet Theme plugin][fleet:theme-plugin-example]
 
-[fleet:website]: https://www.jetbrains.com/fleet/
-[fleet:theme-documentation]: TODO
-[fleet:theme-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/theme-plugin
-[fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
+> Basic approach is to create your own plugin and add one or more themes (.json files) and provide it as a plugin.
+>
+> Such approach isn't good because isn't not convenient to switch themes quickly and not all developers may work with Java / Kotlin.
+
+## Documentation
+
+- [How to create your own theme](https://www.jetbrains.com/help/fleet/building-custom-theme-plugins.html#cloning_the_template)
+
+## List of themes:
+
+<details>
+
+<summary>Dark themes</summary>
+
+- [Intellij IDEA – Dark (@xepozz)](plugin/frontendImpl/src/jvmMain/resources/intellij_dark.json)
+
+</details>
+
+
+<details>
+
+<summary>Light themes</summary>
+
+- No themes added
+
+</details>
