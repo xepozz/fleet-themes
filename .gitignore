@@ -2,6 +2,7 @@
 .gradle
 .idea
 .DS_Store
+.kotlin
 
 # Ignore Gradle build output directory
 build
