@@ -18,6 +18,7 @@ fleetPlugin {
 
          Dark Themes in the plugin:
          - Intellij IDEA – Dark (@xepozz)
+         - CutCode – Dark (@lee-to)
          """.trimIndent()
 
         icons {
