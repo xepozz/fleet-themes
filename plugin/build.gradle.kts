@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.fleet.plugin)
 }
 
-version = "2025.0.3"
+version = "2025.0.4"
 
 fleetPlugin {
 
