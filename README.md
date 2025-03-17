@@ -23,7 +23,7 @@ Create a pull request with your JSON theme config and it will be able on the Mar
 <summary>Dark themes</summary>
 
 - [Intellij IDEA – Dark (@xepozz)](plugin/frontendImpl/src/jvmMain/resources/intellij_dark.json)\
-- [CutCode – Dark (@lee-to)](plugin/frontendImpl/src/jvmMain/resources/intellij_dark.json)
+- [CutCode – Dark (@lee-to)](plugin/frontendImpl/src/jvmMain/resources/cutcode_dark.json)
 
 </details>
 
