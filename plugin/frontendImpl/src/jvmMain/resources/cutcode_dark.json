@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "theme.name": "CutCode",
+    "theme.kind": "Dark",
+    "theme.version": 1
+  },
+  "colors": {
+    "text.primary": "White",
+    "text.secondary": "Gray",
+    "text.tertiary": "SoftBlue",
+    "text.positive": "SoftGreen",
+    "text.dangerous": "SoftRed",
+    "text.disabled": "Gray",
+    "text.bright": "SoftYellow",
+    "text.ai": "White",
+
+    "button.primary.background.default": "Primary",
+    "button.primary.background.disabled": "Gray",
+    "button.primary.background.hovered": "Secondary",
+    "button.primary.background.pressed": "Primary",
+
+    "button.primary.border.default": "Transparent",
+    "button.primary.border.disabled": "Transparent",
+    "button.primary.border.hovered": "Transparent",
+    "button.primary.border.pressed": "Transparent",
+
+    "checkbox.icon.default": "White",
+    "checkbox.off.background.default": "Primary",
+    "checkbox.on.background.default": "Primary",
+    "checkbox.off.background.hovered": "Primary",
+    "checkbox.on.background.hovered": "Primary",
+
+    "island.background": "Island",
+    "background.primary": "Background",
+    "background.secondary": "Background",
+    "border": "Transparent",
+    "border.focused": "Transparent",
+    "focusOutline": "Island",
+
+    "diff.preview.background": "Primary",
+    "diff.preview.border": "Transparent",
+
+    "editor.caret.background": "Secondary",
+    "editor.caret.border": "Transparent",
+    "editor.currentLine.background.default": "SoftPurple",
+    "editor.currentLine.background.focused": "SoftPurple",
+    "editor.currentLine.scrollbarMark": "SoftPurple",
+    "editor.foldedMark.background": "SoftPurple",
+    "editor.foldedMark.text": "Primary",
+    "editor.gitDiff.background.added": "SoftGreen",
+    "editor.gitDiff.background.blame": "Secondary",
+    "editor.gitDiff.background.conflict": "SoftYellow",
+    "editor.gitDiff.background.deleted": "SoftRed",
+    "editor.gitDiff.background.modified": "SoftBlue",
+    "editor.gitDiff.text.added": "White",
+    "editor.gitDiff.text.conflict": "White",
+    "editor.gitDiff.text.deleted": "White",
+    "editor.gitDiff.text.modified": "White",
+    "editor.interline.background": "SoftBlue",
+    "editor.interline.text.default": "White",
+    "editor.lineNumber.current": "White",
+    "editor.lineNumber.default": "Gray",
+    "editor.renamePostline.background": "SoftBlue",
+    "editor.text": "White",
+
+    "gitBranchTag.local.background": "Primary",
+    "gitBranchTag.local.border": "Transparent",
+    "gitBranchTag.local.text": "White",
+    "gitBranchTag.remote.background": "Secondary",
+    "gitBranchTag.remote.border": "Transparent",
+    "gitBranchTag.remote.text": "White",
+
+    "icon.background.blue": "SoftBlue",
+    "icon.background.green": "SoftGreen",
+    "icon.background.yellow": "SoftYellow",
+    "icon.background.red": "SoftRed",
+    "icon.background.cyan": "Gray",
+
+    "inputField.background.default": "Background",
+    "inputField.background.hovered": "Primary",
+    "inputField.background.disabled": "Gray",
+    "inputField.text.default": "White",
+    "inputField.text.hovered": "White",
+    "inputField.text.disabled": "White",
+
+    "layout.error": "SoftRed",
+    "link.text.default": "SoftBlue",
+    "listItem.background.default": "Background",
+    "listItem.background.selected": "SoftPurple",
+
+    "notification.background.default": "Island",
+    "notification.text.primary": "White",
+
+    "popup.background": "Background",
+    "popup.text": "White",
+
+    "problemsWidget.tag.error.background.default": "SoftRed",
+    "problemsWidget.tag.warning.background.default": "SoftYellow",
+    "problemsWidget.tag.success.background": "SoftGreen",
+
+    "scrollbar.thumb.default": "SoftPurple",
+    "scrollbar.track.default": "Background",
+
+    "search.match.background": "SoftBlue",
+    "separator.default": "SoftPurple",
+
+    "settings.modified.indicator": "SoftBlue",
+    "shadow.background.large": "Transparent",
+
+    "statusBar.text.default": "White",
+    "tab.background.default": "Background",
+    "tab.background.selected": "SoftPurple",
+    "tab.text.default": "White",
+
+    "toast.background": "SoftPurple",
+    "toast.text": "White",
+
+    "tooltip.text.primary": "White",
+    "tooltip.background": "SoftPurple",
+
+    "tree.focusBorder": "Transparent"
+  },
+  "palette": {
+    "Background": "#272d45",
+    "Island": "#1b253b",
+    "Primary": "#7843e9",
+    "Secondary": "#ec4176",
+    "White": "#FFFFFF",
+    "Success": "#65a435",
+    "Info": "#0079ff",
+    "Error": "#e02d2d",
+    "Warning": "#ffdc2a",
+    "Gray": "#9ca3af",
+    "SoftGreen": "#9ccd8f",
+    "SoftBlue": "#7aa6da",
+    "SoftRed": "#d87c7c",
+    "SoftYellow": "#e3c86c",
+    "SoftPurple": "#9085b9"
+  }
+}

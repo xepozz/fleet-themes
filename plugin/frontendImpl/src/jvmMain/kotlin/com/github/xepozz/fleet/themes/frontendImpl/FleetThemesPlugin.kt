@@ -13,5 +13,6 @@ class FleetThemesPlugin : Plugin<Unit> {
 
     override fun ContributionScope.load(pluginScope: PluginScope) {
         registerTheme(ThemeId(id = "intellij_dark"))
+        registerTheme(ThemeId(id = "cutcode_dark"))
     }
 }
